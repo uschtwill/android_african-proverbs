@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AfricanProverbs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="patience1">Hurry, hurry has no blessing. -Swahili </string>
+    <string name="patience2">A patient man will eat ripe fruit. -Africa</string>
+    <string name="leadership1">A large chair does not make a king. -Sudan</string>
+    <string name="leadership2">He who thinks he is leading and has no one following him, is only taking a walk. -Malawi</string>
+    <string name="family1">The old woman looks after the child to grow its teeth, and the young one in turn looks after the old woman when she loses her teeth. -Ghana</string>
+    <string name="family2">A united family eats from the same plate. \n -Uganda</string>
+    <string name="wisdom1">If you are filled with pride, then you will have no room for wisdom. -Africa</string>
+    <string name="wisdom2">Knowledge without wisdom is like water in the sand. -Guinea</string>
+    <string name="learning1">Travelling is learning. -Kenya</string>
+    <string name="learning3">You do not teach the paths of the forest to an old gorilla. -Congo</string>
+    <string name="friendship1">To be without a friend is to be poor indeed. -Tanzania</string>
+    <string name="friendship2">Return to old watering holes for more than water; friends and dreams are there to meet you. -Africa</string>
+
+
+</resources>
